@@ -201,7 +201,7 @@ left outer join appove_doctor  ad on  hc.vn=ad.vn
 $r_chup = mysqli_query($con_hchkup, $sql_chup);
 $rowpt = mysqli_fetch_array($r_chup);
 
-
+//fgfgfgfgfgfgfgfgfgfgfgfgfgfg/
 
 
 //////////ความดันโลหิต//////////////////
